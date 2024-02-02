@@ -1,0 +1,33 @@
+layout: default
+title: "PAGE-TITLE"
+permalink: /tictac/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="{{ "/assets/css/tictac.css" | relative_url }}">
+    <script src="{{ "/assets/js/tictac.js" | relative_url }}"></script>
+
+    <title>Tic Tac Toe</title>
+  </head>
+  <body>
+    <div class="game">
+      
+    </div>
+
+ 
+    
+    <div class="slidecontainer">
+      <h1>Difficulty slider</h1>
+      <p>Drag the slider to change game difficulty</p>
+      <input type="range" min="1" max="100" value="50" class="slider" id="myRange">
+      <p>Value: <span id="demo"></span></p>
+    </div>
+  
+  </body>
+</html>
