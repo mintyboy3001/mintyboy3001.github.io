@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://mintyboy3001.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 May 2025 17:27:33 +0300</lastBuildDate>
-    <atom:link href="https://mintyboy3001.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is my first post on my revamped github static pages.</title>
-      <link>https://mintyboy3001.github.io/posts/a-post/</link>
+      <link>http://localhost:1313/posts/a-post/</link>
       <pubDate>Tue, 27 May 2025 17:27:33 +0300</pubDate>
-      <guid>https://mintyboy3001.github.io/posts/a-post/</guid>
+      <guid>http://localhost:1313/posts/a-post/</guid>
       <description>&lt;p&gt;While I build this page you may keep yourself entertained with some  &lt;a href=&#34;https://mintyboy3001.github.io/games/tictactoe&#34;&gt;Tic-Tac-Toe&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

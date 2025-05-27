@@ -6,7 +6,7 @@
 }
 
 .cell {
-  background-color: #3535ec;
+  background-color:rgb(24, 165, 158);
 }
 
 .game {
@@ -22,22 +22,22 @@
 
 .symbol {
   color: white;
-  font-size: 185px;
+  font-size: 125px;
   text-align: center;
 }
 
 .banner {
   position: absolute;
-  background-color: red;
+  background-color: rgb(230, 123, 24);
   width: 140%;
   height: 60px;
   margin-left: -140px;
   margin-top: 45%;
-  opacity: 75%;
+  opacity: 89%;
 }
 
 .banner h1 {
-  color: white;
+  color: rgb(255, 255, 255);
   text-align: center;
   margin-top: 10px;
 }
